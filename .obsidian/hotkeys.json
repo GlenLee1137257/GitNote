@@ -1,0 +1,10 @@
+{
+  "file-explorer:new-folder": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ]
+}
