@@ -1,8 +1,8 @@
 
 创建
-创建新仓库：git init
-克隆本地仓库：git clone /path/to/repository
-克隆远程仓库：git clone username@host:/path/to/repository
+git init： 创建新仓库：
+git clone /path/to/repository：克隆本地仓库
+git clone username@host:/path/to/repository：克隆远程仓库
 
 工作流
 你的本地仓库由 git 维护的三棵“树”组成：
@@ -11,9 +11,14 @@
 最后是 `HEAD`，它指向你最后一次提交的结果。
 
 添加和提交
-指定文件名添加到暂存区：git add <filename>
-将当前目录下添加到暂存区：git add .
-将暂存区的内容提交到本地仓库：git commit -m "代码提交信息"
+git add <filename>：指定文件名添加到暂存区
+git add .：将当前目录下添加到暂存区
+git commit -m "代码提交信息"：将暂存区的内容提交到本地仓库
 
 推送改动
-你的改动现在已经在本地仓库的 **HEAD** 中了。执行如下命令以将这些改动提交到远端仓库：
+git remote add origin <Your Github URL>：将远程仓库与本地仓库关联起来
+git push origin master：将本地仓库 `master` 分支的内容推送到远程仓库 `origin`
+
+分支
+git checkout -b feature_x：创建一个叫做“feature_x”的分支，并切换过去
+git checkout master：切换回主分支
