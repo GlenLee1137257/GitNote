@@ -27,3 +27,4 @@ git checkout master：切换回主分支
 
 更新与合并
 git pull ：更新你的本地仓库至最新改动
+git merge feature_x：合并其他分支到你的当前分支（例如 master）
