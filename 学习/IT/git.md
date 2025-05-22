@@ -20,9 +20,9 @@ git remote add origin <Your Github URL>：将远程仓库与本地仓库关联�
 git push origin master：将本地仓库 `master` 分支的内容推送到远程仓库 `origin`
 
 分支
-git checkout -b feature_x：创建一个叫做“feature_x”的分支，并切换过去
-git branch -d feature_x：把新建的分支删掉， `-D` （强制删除）选项
-git push origin feature_x：将分支推送到远端仓库
+git checkout -b branch_x：创建一个叫做“feature_x”的分支，并切换过去
+git branch -d branch_x：把新建的分支删掉， `-D` （强制删除）选项
+git push origin branch_x：将分支推送到远端仓库
 git checkout master：切换回主分支
 
 更新与合并
