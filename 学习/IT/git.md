@@ -10,16 +10,14 @@ git clone username@host:/path/to/repository：克隆远程仓库
 第二个是 `暂存区（Index）`，它像个缓存区域，临时保存你的改动；
 最后是 `HEAD`，它指向你最后一次提交的结果。
 
-<font color="red" size="1">这里是红色</font>
-
 添加和提交
 git add <filename>：指定文件名添加到暂存区/解决冲突后使用
-==git add .：将当前目录下添加到暂存区==
-git commit -m "代码提交信息"：将暂存区的内容提交到本地仓库
+==git add .==：将当前目录下添加到暂存区==
+==git commit -m== "代码提交信息"：将暂存区的内容提交到本地仓库
 
 推送改动
 git remote add origin <Your Github URL>：将远程仓库与本地仓库关联起来
-git push origin master：将本地仓库 `master` 分支的内容推送到远程仓库 `origin`
+==git push origin master==：将本地仓库 `master` 分支的内容推送到远程仓库 `origin`
 
 分支
 git checkout -b branch_x：创建一个叫做“feature_x”的分支，并切换过去
