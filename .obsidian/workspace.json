@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "学习/IT/git.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
+                "file": "学习/IT/git.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "git 的出链列表"
             }
           },
           {
@@ -140,20 +141,31 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "学习/IT/git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "git 的大纲"
+            }
+          },
+          {
+            "id": "7703126e59347f56",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +180,9 @@
   },
   "active": "a6fa98e5777f20fd",
   "lastOpenFiles": [
-    "学习/台球准度特训课程/第二集.md",
+    "账号密码/WiFi/工作.md",
     "学习/IT/git.md",
+    "学习/台球准度特训课程/第二集.md",
     "学习/IT/前端/html.md",
     "conflict-files-obsidian-git.md",
     "tupian/Pasted image 20250521191346.png"
