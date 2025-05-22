@@ -31,8 +31,5 @@ git merge branch_x：合并其他分支到你的当前分支（先切需要合�
 git diff ：<source_branch> <target_branch>：预览差异
 git status ：对比本地文件状态和仓库中的状态
 
-<font  
-color="red"  
-size="1">这里是红色</font>
 
 
