@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1db5c04c14158a40",
+        "id": "22484597d436dc98",
         "type": "tabs",
         "children": [
           {
-            "id": "33510cb9203e9cb3",
+            "id": "f91c2d763a5b636c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "新标签页"
             }
           }
         ]
@@ -166,10 +162,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33510cb9203e9cb3",
+  "active": "f91c2d763a5b636c",
   "lastOpenFiles": [
-    "tupian/Pasted image 20250521191346.png",
     "conflict-files-obsidian-git.md",
+    "tupian/Pasted image 20250521191346.png",
     "学习/IT/git.md"
   ]
 }
