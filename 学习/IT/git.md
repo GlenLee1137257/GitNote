@@ -12,7 +12,7 @@ git clone username@host:/path/to/repository：克隆远程仓库
 
 添加和提交
 git add <filename>：指定文件名添加到暂存区/解决冲突后使用
-git add .：将当前目录下添加到暂存区
+==git add .：将当前目录下添加到暂存区==
 git commit -m "代码提交信息"：将暂存区的内容提交到本地仓库
 
 推送改动
