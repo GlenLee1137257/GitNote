@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "账号密码/学习/IT.md",
+                "file": "学习/IT/Python/路飞学城.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IT"
+              "title": "路飞学城"
             }
           }
         ]
@@ -179,8 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6fa98e5777f20fd",
+  "active": "a41c635fcd08a98c",
   "lastOpenFiles": [
+    "账号密码/学习/IT.md",
+    "学习/IT/Python/路飞学城.md",
+    "学习/IT/Python",
     "学习/Excel/加水印.md",
     "学习/IT/git.md",
     "学习/Excel",
