@@ -6,14 +6,29 @@
 
 网络诊断：ping 地址
 
-显示当前目录：cd
-
-进入上级目录： cd ..
-
 进入上次d盘所在的目录：d:
 
 显示上次c盘所在的目录：cd c:
 
 安装APK文件（手机打开调试模式）：adb install 文件路径
 
-签名："E:\pc_pipe\signtool.exe" sign /sha1 ecc82300bf49cf7fc0d8f0e8266865799e160e98 /fd SHA256 /t [http://timestamp.digicert.com](http://timestamp.digicert.com) "E:\云盘\pcpro_Install_4001021.exe"
+**文件与目录操作**
+- **`dir`**  
+    列出当前目录下的文件和文件夹（`dir /s` 递归显示子目录内容）。
+- **`cd`**  
+    切换目录：
+    - `cd 目录名`：进入指定目录
+    - `cd..`：返回上一级目录
+    - `cd \`：回到根目录
+- **`md`**  
+    创建新文件夹（如 `md "新文件夹名"`）。
+- **`rd`**  
+    删除空文件夹（`rd 文件夹名 /s` 强制删除非空文件夹）。
+- **`del`**  
+    删除文件（`del 文件名` 或 `del *.txt` 删除所有 txt 文件）。
+- **`ren`**  
+    重命名文件或文件夹（如 `ren 旧名 新名`）。
+- **`copy`**  
+    复制文件（`copy 源文件路径 目标路径`）。
+- **`move`**  
+    移动文件或重命名文件（`move 源文件路径 目标路径`）。
