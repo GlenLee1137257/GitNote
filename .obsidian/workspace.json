@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作/红手指云手机/H5/client-normal-projects.md",
+                "file": "学习/IT/cmd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "client-normal-projects"
+              "title": "cmd"
             }
           }
         ]
@@ -179,10 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6fa98e5777f20fd",
+  "active": "a41c635fcd08a98c",
   "lastOpenFiles": [
-    "学习/Obsidian/字体.md",
     "工作/红手指云手机/H5/client-normal-projects.md",
+    "学习/IT/cmd.md",
+    "学习/IT/未命名",
+    "学习/Obsidian/字体.md",
     "工作/红手指云手机/H5",
     "学习/IT/Python/day1重点/2基本数据类型.md",
     "学习/IT/Python/day1重点/1变量.md",
@@ -205,7 +207,6 @@
     "新建文件夹",
     "账号密码/记录/记录.md",
     "学习/Obsidian.md",
-    "学习/Obsidian",
     "账号密码/WiFi/工作.md",
     "学习/台球准度特训课程/第二集.md",
     "学习/IT/前端/html.md",
