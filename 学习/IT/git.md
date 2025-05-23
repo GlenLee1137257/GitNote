@@ -26,6 +26,7 @@ git push origin branch_x：将分支推送到远端仓库
 git checkout master：切换回主分支
 
 更新与合并
+git fetch：更新代码库
 git pull ：更新你的本地仓库至最新改动
 git merge branch_x：合并其他分支到你的当前分支（先切需要合入的分支，例如 master）
 git diff ：<source_branch> <target_branch>：预览差异
