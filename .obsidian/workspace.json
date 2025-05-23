@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "账密/其它/共享文件夹.md",
+                "file": "工作/账密/日常.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "共享文件夹"
+              "title": "日常"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "glenlee1137257@163.com",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,6 +181,12 @@
   },
   "active": "a6fa98e5777f20fd",
   "lastOpenFiles": [
+    "账密/记录/记录.md",
+    "工作/账密/日常.md",
+    "账密/生活/沟通.md",
+    "账密/邮箱/微软.md",
+    "账密/邮箱/国内.md",
+    "账密/其它/共享文件夹.md",
     "账密/交易/网购/百度.md",
     "账密/交易/网购/京东.md",
     "账密/交易/网购/阿里.md",
@@ -210,12 +215,8 @@
     "EObsidianNote.ssh",
     "EObsidianNote.sshid_ed25519.pub",
     "EObsidianNote.sshid_ed25519",
-    "账密/记录/记录.md",
     "学习/Obsidian.md",
     "账密/WiFi/工作.md",
-    "学习/台球准度特训课程/第二集.md",
-    "学习/IT/前端/html.md",
-    "conflict-files-obsidian-git.md",
     "tupian/Pasted image 20250521191346.png"
   ]
 }
