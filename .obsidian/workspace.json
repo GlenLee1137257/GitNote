@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/生日.md",
+                "file": "工作/账密/红手指账号.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "生日"
+              "title": "红手指账号"
             }
           }
         ]
@@ -179,13 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a41c635fcd08a98c",
+  "active": "0e630d77ef85be1d",
   "lastOpenFiles": [
-    "学习/IT/Python/day1重点/2基本数据类型.md",
     "生活/生日.md",
     "生活",
-    "工作/账密/红手指账号.md",
     "学习/IT/Python/day1重点/4注释.md",
+    "学习/IT/Python/day1重点/2基本数据类型.md",
     "学习/IT/Python/day1重点/3运算符.md",
     "学习/IT/git.md",
     "学习/IT/Python/day1重点/1变量.md",
@@ -203,6 +202,7 @@
     "账密/交易/网购/百度.md",
     "账密/交易/网购/京东.md",
     "账密/交易/网购/阿里.md",
+    "工作/账密/红手指账号.md",
     "工作/账密",
     "学习/IT/cmd.md",
     "工作/红手指云手机/H5/client-normal-projects.md",
