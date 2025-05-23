@@ -11,7 +11,7 @@ git clone username@host:/path/to/repository：克隆远程仓库
 最后是 `HEAD`，它指向你最后一次提交的结果。
 
 **添加和提交**
-==git add .==/git add (filename)：添加文件到暂存区/解决冲突后使用
+==git add .==/git add (filename)：添加文件到暂存区/解决冲突后使用!
 ==git commit -m== "代码提交信息"：将暂存区的内容提交到本地仓库
 
 替换本地改动
