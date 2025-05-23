@@ -16,6 +16,7 @@ git clone username@host:/path/to/repository：克隆远程仓库
 
 替换本地改动
 ==git checkout .==/git checkout (filename)：取消暂存区文件
+*git reset --hard* 会丢弃工作目录和暂存区中的所有未提交的更改
 
 推送改动
 git remote add origin (Your Github URL)：将远程仓库与本地仓库关联起来
