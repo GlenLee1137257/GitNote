@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a6fa98e5777f20fd",
+            "id": "0e630d77ef85be1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作/账密/日常.md",
+                "file": "工作/账密/wifi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "日常"
+              "title": "wifi"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 207.5
   },
   "right": {
     "id": "b4c6b8b4d6d37b2c",
@@ -179,10 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6fa98e5777f20fd",
+  "active": "0e630d77ef85be1d",
   "lastOpenFiles": [
-    "账密/记录/记录.md",
     "工作/账密/日常.md",
+    "工作/账密/wifi.md",
+    "账密/WiFi/工作.md",
+    "账密/记录/记录.md",
     "账密/生活/沟通.md",
     "账密/邮箱/微软.md",
     "账密/邮箱/国内.md",
@@ -203,7 +205,6 @@
     "学习/IT/Python/day1重点/5输入input.md",
     "学习/IT/Python/day1重点/4注释.md",
     "学习/IT/Python/day1重点/3运算符.md",
-    "未命名.md",
     "账密/学习/IT.md",
     "学习/IT/Python/day1重点",
     "学习/IT/Python/路飞学城.md",
@@ -216,7 +217,6 @@
     "EObsidianNote.sshid_ed25519.pub",
     "EObsidianNote.sshid_ed25519",
     "学习/Obsidian.md",
-    "账密/WiFi/工作.md",
     "tupian/Pasted image 20250521191346.png"
   ]
 }
