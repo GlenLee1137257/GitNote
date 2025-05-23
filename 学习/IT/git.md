@@ -11,9 +11,12 @@ git clone username@host:/path/to/repository：克隆远程仓库
 最后是 `HEAD`，它指向你最后一次提交的结果。
 
 添加和提交
-git add <filename>：指定文件名添加到暂存区/解决冲突后使用
-==git add .==：将当前目录下添加到暂存区==
+==git add .==/git add <filename>：添加文件到暂存区/解决冲突后使用
+：将当前目录下添加到暂存区==
 ==git commit -m== "代码提交信息"：将暂存区的内容提交到本地仓库
+
+替换本地改动
+==git checkout .==/git checkout -- <filename>：取消暂存区文件
 
 推送改动
 git remote add origin <Your Github URL>：将远程仓库与本地仓库关联起来
@@ -31,6 +34,8 @@ git pull ：更新你的本地仓库至最新改动
 git merge branch_x：合并其他分支到你的当前分支（先切需要合入的分支，例如 master）
 git diff ：<source_branch> <target_branch>：预览差异
 git status ：对比本地文件状态和仓库中的状态
+
+
 
 
 
